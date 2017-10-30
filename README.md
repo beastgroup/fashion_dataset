@@ -45,3 +45,10 @@ Garment is meta-data extracted from the post. In each post, bloggers
 list up their clothing items from the pre-defined set of clothing
 types. This garment table keeps pairs of the id of the post and
 extracted garment name.
+
+
+# Search for specific categories
+
+1. Change category in images
+2. ` python images.py`
+3. ` python download_fashionista_photos.py `
